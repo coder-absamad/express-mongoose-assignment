@@ -1,0 +1,9 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore .env files
+*.env
+
+# Ignore IDE-specific directories
+.idea/
+.vscode/
